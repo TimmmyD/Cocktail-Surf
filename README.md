@@ -1,8 +1,6 @@
 # CocktailSurf
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cocktail_surf`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to cocktail surf! This application allows the user to select a type of liquor they like and then will return a list of many cocktails that can be made with this and how to make it!
 
 ## Installation
 
@@ -21,8 +19,7 @@ Or install it yourself as:
     $ gem install cocktail_surf
 
 ## Usage
-
-TODO: Write usage instructions here
+Hello and welcome to Cocktail Surf! Please type in the type of liquor you would like to use and then let Cocktail Surf take it from there! You will be returned a list of cocktails with the proper glassware and ingredients needed to make it proper! You can input any kind of liquor you would like to use!
 
 ## Development
 
