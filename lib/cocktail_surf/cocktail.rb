@@ -17,6 +17,4 @@ class Cocktail
         @@all
     end
 
-    def desciription
-    end
 end

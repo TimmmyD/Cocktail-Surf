@@ -8,5 +8,5 @@ require_relative "./cocktail_surf/api"
 require_relative "./cocktail_surf/cli"
 module CocktailSurf
   class Error < StandardError; end
-  # Your code goes here...
+  
 end
